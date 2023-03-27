@@ -88,7 +88,7 @@ bottom = height - padding
 x = 0
 
 # Load nice silkscreen font
-font = ImageFont.truetype('/home/pi/slkscr.ttf', 8)
+font = ImageFont.truetype('fonts/slkscr.ttf', 8)
 
 while True:
     # Draw a black filled box to clear the image.
